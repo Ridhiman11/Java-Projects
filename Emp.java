@@ -1,4 +1,3 @@
-package r;
 import java.io.*;
 import java.text.Format;
 import java.util.ArrayList;
